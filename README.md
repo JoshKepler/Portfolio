@@ -14,10 +14,10 @@ With the popularity of Fantasy Football Expanding, we can use data to gain an ed
 -	Leagues typically have 10-12 team, we will be assuming 12 teams in these scenarios unless specified
 -	9 starters (1 Quarterback, 2 Running Backs, 2 Wide Receivers, 1 Tight End, a Flex (RB,WR or TE), Kicker and Defense) with 6 Bench spots.
 -	Standard Scoring: 
-  -	Passing: 1 point per 25 yards, 4 points per passing touchdown, -2 points per passing interception
-  -	Rushing: 1 point per 10 yards, 6 points per rushing touchdown, -2 points for fumbling
-  -	Receiving: 1 point per 10 yards, 6 points per receiving touchdown, additional points can be earned per reception/catch
-  -	2-Point Conversion: 2 points for passing, rushing or receiving 2-point conversion
+	-	Passing: 1 point per 25 yards, 4 points per passing touchdown, -2 points per passing interception
+	-	Rushing: 1 point per 10 yards, 6 points per rushing touchdown, -2 points for fumbling
+	-	Receiving: 1 point per 10 yards, 6 points per receiving touchdown, additional points can be earned per reception/catch
+	-	2-Point Conversion: 2 points for passing, rushing or receiving 2-point conversion
 -	Points Per Reception (PPR): this rule varies across leagues with 0, .5 & 1 point, we will be assuming .5 PPR in these scenarios unless specified.
 
 The skills I will be demonstrating will be:
