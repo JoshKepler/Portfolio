@@ -32,3 +32,6 @@ I will be demonstrating my skills in python to show the advantages we can gain f
 - Do specific positions correlate to other positions
 - Point scaricty among different positions
 - Creating projections for players
+
+Credit to the nfl_data_py team as I will be leveraging their API for stats. if you would like to view thier Github please see the link below:
+https://github.com/cooperdff/nfl_data_py
