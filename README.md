@@ -1,5 +1,5 @@
-# Read Me
-Hello my name is Josh and I am passionate about data analysis and painting pictures with data. I am attempting to gain my Data Scientist with Python Certification from Data Camp. To demonstrate these skills I have learned from this certification I wanted to make a GitHub to showcase my skills. If you would like to connect please contact me on linkedIn
+# Portfolio Read Me
+Hello my name is Josh and I am passionate about data analysis and painting pictures with data. I am attempting to gain my Data Scientist with Python Certification from Data Camp. To demonstrate these skills I have learned from this certification I wanted to make a GitHub to showcase my skills. My portfolio is still a work in progress. If you would like to connect please contact me on LinkedIn
 
 LinkedIn - https://www.linkedin.com/in/joshkepler
 DataCamp - https://www.datacamp.com/profile/joshkepler94
