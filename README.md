@@ -1,5 +1,5 @@
 # Portfolio Read Me
-Hello my name is Josh and I am passionate about data analysis and painting pictures with data. I have gained my Data Scientist Certification from IBM. To demonstrate these skills I have learned from this certification I wanted to make a GitHub to showcase my skills. My portfolio is still a work in progress. If you would like to connect please contact me on LinkedIn
+Hello my name is Josh and I am passionate about data analysis, painting pictures with data & Machine Learning. I have gained my Data Scientist Certification from IBM. To demonstrate these skills I have learned from this certification I wanted to make a GitHub to showcase my skills. My portfolio is still a work in progress. If you would like to connect please contact me on LinkedIn
 
 LinkedIn - https://www.linkedin.com/in/joshkepler
 
