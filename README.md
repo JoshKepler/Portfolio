@@ -3,7 +3,6 @@ Hello my name is Josh and I am passionate about data analysis, painting pictures
 
 LinkedIn - https://www.linkedin.com/in/joshkepler
 
-
 The skills I will be demonstrating in my portfolio are be:
 -	Python
 -	Data Analysis with Visualizations, Sampling & Hypothesis Testing
@@ -11,3 +10,5 @@ The skills I will be demonstrating in my portfolio are be:
 -	Importing, Cleaning & Manipulating Data
 -	Leveraging APIs
 - Machine Learning via Regression, SVM, K-Nearest Neighbors, Decision Trees, Etc.
+
+Please checkout my NFL Project Folder as it has the most updated projects.
