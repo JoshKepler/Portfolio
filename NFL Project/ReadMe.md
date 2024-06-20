@@ -22,10 +22,9 @@ The skills I will be demonstrating will be:
 -	Leveraging APIs
 
 I will be demonstrating my skills in python to show the advantages we can gain from leveraging data in fantasy football topics will include:
-- Value over replacement players
-- Do specific positions correlate to other positions
-- Point scaricty among different positions
-- Creating projections for players
+- Creating Projections for players (Complete: See "Projected Draft Position & Stats" for Rookie Projections)
+- Value over replacement players (Not Started)
+- Do specific positions correlate to other positions (Not Started)
+- Point scaricty among different positions (Not Started)
 
-Credit to the nfl_data_py team as I will be leveraging their API for stats. if you would like to view thier Github please see the link below:
-https://github.com/cooperdff/nfl_data_py
+Credit to the nfl_data_py team and Pro Football Focus (PFF) as I will be leveraging their API & Website for stats.
