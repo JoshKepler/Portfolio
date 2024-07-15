@@ -8,6 +8,7 @@ The skills I will be demonstrating will be:
 -	Various Modules: Numpy, Pandas, Matplotlib, Seaborn
 -	Importing, Cleaning & Manipulating Data
 -	Leveraging APIs
+-	Machine Learning & AI
 
 I will be demonstrating my skills in python to show the advantages we can gain from leveraging data in fantasy football topics will include:
 - Creating Projections for players (Complete: See "Projected Draft Position & Stats" for Rookie Projections)
