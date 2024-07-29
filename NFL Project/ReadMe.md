@@ -11,7 +11,8 @@ The skills I will be demonstrating will be:
 -	Machine Learning & AI
 
 I will be demonstrating my skills in python to show the advantages we can gain from leveraging data in fantasy football topics will include:
-- Creating Projections for players (Completed! Please see the combined projections code for all offensive players this upcoming season. You can also view the Rookie, Sophmore, Junior, 4+ seasons predictions by visiting the Player Projections by Experience folder)
+- Creating Projections for players (Combined Projection Notebook is Completed! Please see the combined projections code for all offensive players this upcoming season.)
+  - I am finalizing the Rookie, Sophmore, Junior, 4+ seasons predictions notebooks, you can view these notebooks by visiting the "Player Projections by Experience" folder. These notebooks will also have Machine Learning Principles such as GBR modeling
 - Value over replacement players (Completed!)
 - Do specific positions correlate to other positions (Not Started)
 - Point scaricty among different positions (Not Started)
