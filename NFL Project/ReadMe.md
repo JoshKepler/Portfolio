@@ -15,6 +15,5 @@ I will be demonstrating my skills in python to show the advantages we can gain f
   - I am finalizing the Rookie, Sophmore, Junior, 4+ seasons predictions notebooks, you can view these notebooks by visiting the "Player Projections by Experience" folder. These notebooks will also have Machine Learning Principles such as GBR modeling
 - Value over replacement players (Completed!)
 - Do specific positions correlate to other positions (Not Started)
-- Point scaricty among different positions (Not Started)
 
 Credit to the nfl_data_py team and Pro Football Focus (PFF) as I will be leveraging their API & Website for stats.
